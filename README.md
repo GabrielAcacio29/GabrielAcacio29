@@ -7,13 +7,6 @@ Me chamo Gabriel Acacio da Silva, tenho 16 anos e sou natural de São Paulo. Cur
 Sou apaixonado por robótica educacional — já competi na FIRST LEGO League (FLL), participo da OBR Artística Nível 2 e atuo como mentor da melhor equipe do Brasil na OBR Artística Nível 1 na temporada 2025/2026. "[Cyber Panthers-🏆](https://www.instagram.com/team_cyberpanthers/)"
 
 <p align="left">
-  <a href="https://www.youtube.com/@gabrielacacio367?sub_confirmation=1" target="_blank">
-    <img 
-      alt="YouTube" 
-      title="YouTube" 
-      src="https://img.shields.io/badge/Inscreva--se-FF0000?style=for-the-badge&logo=youtube&logoColor=white"
-    />
-  </a>
   <a href="https://www.instagram.com/gabriel.acacioo/" target="_blank">
     <img 
       alt="Instagram" 
